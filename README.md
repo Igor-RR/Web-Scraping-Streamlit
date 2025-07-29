@@ -11,8 +11,8 @@ Depois da criação do venv, importe as bibliotecas:
 
 Se não:
 
-    Navegue até o diretório no qual o venv e o arquivo .py se encontram
-    digite streamlit run nome_do_arquivo (substitua nome_do_arquivo pelo nome do arquivo .py presente neste reporitório)
+    Navegue até o diretório (via terminal) no qual o venv e o arquivo .py se encontram
+    Digite streamlit run nome_do_arquivo (substitua nome_do_arquivo pelo nome do arquivo .py presente neste reporitório)
 
 Se sim:
 
