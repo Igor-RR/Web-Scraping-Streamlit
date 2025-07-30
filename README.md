@@ -1,18 +1,18 @@
 # Olá, o aquivo principal é um arquivo.py
 
-Isso significa que para o funcionamento adequado deste, se faz necessário a criação de um "venv", no diretorio de mesmo nível do qual o código for baixado.
+Isso significa que para o funcionamento adequado deste, se faz necessário a criação de um "venv" no diretorio de mesmo nível do qual o código for baixado.
 
 Depois da criação do venv, importe as bibliotecas:
 
     streamlit (pip install streamlit)
     BeautifulSoup4 (pip install beautifulsoup4)
 
- Depois de instalar as bibliotecas, verifique se nenhum erro no código é exibido
+ Depois de instalar as bibliotecas verifique se nenhum erro no código é exibido
 
 Se não:
 
     Navegue até o diretório (via terminal) no qual o venv e o arquivo .py se encontram
-    Digite streamlit run nome_do_arquivo (substitua nome_do_arquivo pelo nome do arquivo .py presente neste reporitório)
+    Digite: streamlit run nome_do_arquivo (substitua nome_do_arquivo pelo nome do arquivo .py presente neste reporitório)
 
 Se sim:
 
